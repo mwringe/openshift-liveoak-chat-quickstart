@@ -11,7 +11,7 @@ https://github.com/liveoak-io/liveoak-examples/tree/master/chat/chat-html
 To install the quick start from the 'rhc' tool:
 
 ```
-rhc app create diy --from-code git://github.com/liveoak/openshift-liveoak-chat-quickstart
+rhc app create myChatApp diy --from-code git://github.com/liveoak/openshift-liveoak-chat-quickstart
 ```
 
 or install from the openshift console using the DIY cartridge with the source code option set to git://github.com/liveoak/openshift-liveoak-chat-quickstart 
