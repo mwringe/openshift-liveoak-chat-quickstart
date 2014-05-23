@@ -31,7 +31,7 @@ to
 var liveoak = new LiveOak( { host: "myAwesomeMBaaS", port: 80 } );
 ```
 
-This example also assumes that you have 'chat-html' application setup in your LiveOak instance. To setup your 'chat-html' application in LiveOak:
+If you have not already setup your LiveOak instance for the 'chat-html' example, you can do so by performing the following steps to configure it:
 
 * Log into the console
 
