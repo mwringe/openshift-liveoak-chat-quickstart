@@ -41,6 +41,8 @@ var liveoak = new LiveOak( { host: "myAwesomeMBaaS", port: 80 } );
 
 #Configuring the Gallery Client Example
 
+The following steps assume that you have not already configured your LiveOak instance for the examples yet. If you have installed your LiveOak gear with the example quickstarts, you will not need to follow the following steps as they have been performed as part of the quickstart.
+
 If you have not already setup your LiveOak instance for the 'chat-html' example, you can do so by performing the following steps to configure it:
 
 * Log into the LiveOak console
