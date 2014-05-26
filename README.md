@@ -14,7 +14,7 @@ If you wish to run the Chat example locally on your own machine, please see the 
 
 https://github.com/liveoak-io/liveoak-examples/tree/master/chat/chat-html
 
-#Installing the Gallery Client Example
+#Installing the Chat Client Example
 
 To install the quick start from the 'rhc' tool:
 
@@ -39,7 +39,7 @@ to
 var liveoak = new LiveOak( { host: "myAwesomeMBaaS", port: 80 } );
 ```
 
-#Configuring the Gallery Client Example
+#Configuring the Chat Client Example
 
 The following steps assume that you have not already configured your LiveOak instance for the examples yet. If you have installed your LiveOak gear with the example quickstarts, you will not need to follow the following steps as they have been performed as part of the quickstart.
 
@@ -59,6 +59,6 @@ If you have not already setup your LiveOak instance for the 'chat-html' example,
 
 That's it for configuring this example.
 
-#Accessing the Gallery Client
+#Accessing the Chat Client
 
 After you your gear has been created, you should be presented with a link to access the website. Accessing the website will take you to the chat example, which allows you to send and receive chats in real time. Note that this is an open chat application, all the chats and correspondence is public. 
